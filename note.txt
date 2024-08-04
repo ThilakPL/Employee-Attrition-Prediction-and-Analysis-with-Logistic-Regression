@@ -1,0 +1,28 @@
+satisfaction_Level:
+Satisfaction level of employee in percentage. 100% or 1 is very satisfied. 0% or 0 is not satisfied
+
+Last_evalution:
+Time from last evalution in years
+
+number_project
+Number of projects an employee is working on
+
+average monthly_hours
+Average hours worked by employee in last 3 months
+
+time_spend_company
+Time spend my employee commuting to office
+
+Work_accident
+If the employee was involved in a work accident
+
+Left 
+If the employee has left the company
+
+Promotion_in_last_5_yrs
+If the employee has a promotion in past 5 years
+
+Department
+Department employee is working in
+
+Salary
